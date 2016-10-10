@@ -10,7 +10,7 @@ public class project0
 {
 	static String equation;
 	static String control;
-
+	static String C4;
 	public static void main(String[] args)
 	{
 		while (true)
