@@ -477,4 +477,6 @@ public class project0
 			System.out.println("Error,no variable!");
 	}
 }
+
+
 //add a change :)
